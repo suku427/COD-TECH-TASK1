@@ -52,3 +52,5 @@ The Full-Stack Developer Portfolio showcases a collection of projects that demon
 
 These key activities encompass the full scope of work involved in developing and maintaining a full-stack portfolio, demonstrating a comprehensive skill set in modern web development.
 
+![alt text](image.png)
+![alt text](image-1.png)
