@@ -1,4 +1,4 @@
-# Codetech-task-2
+# Codetech-task-1
 # Ecommerce Website
 
 This repository showcases my skills and projects in both frontend and backend development. As a third-year B.Tech student in Artificial Intelligence and Data Science at KCG College of Technology, I am passionate about building robust and user-friendly applications.
